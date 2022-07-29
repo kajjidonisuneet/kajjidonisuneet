@@ -11,11 +11,11 @@ Hi, I'm Suneet Kajjidoni, a passionate self-taught full stack web developer curr
 
 ### Projects
 
-#### MicroBlog 
-Microblog a web app that allows posting of short messages built with Flask.
+#### MicroBlog web app
+Microblog is a web app that allows posting of short messages built with Flask.
 Features
 - User authentication system with remember me.
-- Users can follow others users for there posts.
+- Users can follow others users for their posts.
 - Password recovery through Email.
 - Database managed through SQL-Alchemy and Postgres.
 - Multiple language support (as of now english and spanish).
