@@ -55,6 +55,12 @@ Responsive design is set at 450px screen width.
 Github repo - https://github.com/kajjidonisuneet/bank_landing_page
 Deployed link - https://gleaming-custard-30a99c.netlify.app/
 
+#### Countries App
+Countries App is a responsive react app built using react router dom, css tailwind and Rest Countries API.
+
+Github repo - https://github.com/kajjidonisuneet/react-rest-countries
+Deployed link - https://isnt-kajjidonisuneet-awesome.netlify.app/
+
 #### Advice Generator
 Advice Generator is a responsive static web page consuming 3rd party APIs and built with Vanilla JS, DOM and AJAX. 
 Responsive design is set at 450px screen width.
